@@ -1,7 +1,7 @@
 {
   "name": "ncu-test-dist-tag",
   "description": "A package that publishes to the 'next' dist-tag.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Raine Revere",
     "url": "https://github.com/raineorshine"
